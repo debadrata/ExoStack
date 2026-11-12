@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/[ARXIV_ID]"><img src="https://img.shields.io/badge/arXiv-[ARXIV_ID]-B31B1B?logo=arxiv&logoColor=white" alt="arXiv"></a>
-  <a href="https://doi.org/10.48550/arXiv.[ARXIV_ID]"><img src="https://img.shields.io/badge/DOI-10.48550%2FarXiv.[ARXIV_ID]-1F6FEB" alt="DOI"></a>
+  <a href="https://arxiv.org/abs/2611.12306"><img src="https://img.shields.io/badge/arXiv-2611.12306-B31B1B?logo=arxiv&logoColor=white" alt="arXiv"></a>
+  <a href="https://doi.org/10.48550/arXiv.2611.12306"><img src="https://img.shields.io/badge/DOI-10.48550%2FarXiv.2611.12306-1F6FEB" alt="DOI"></a>
   <a href="https://debadrata.github.io/ExoStack_documentation/"><img src="https://img.shields.io/badge/Documentation-website-0F766E?logo=readthedocs&logoColor=white" alt="Documentation"></a>
   <a href="docs/ExoStack_User_Manual.pdf"><img src="https://img.shields.io/badge/User%20manual-PDF-0C545C?logo=adobeacrobatreader&logoColor=white" alt="User manual"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/Code-PolyForm%20Noncommercial%201.0.0-blue" alt="Code license: PolyForm Noncommercial 1.0.0"></a>
@@ -38,7 +38,7 @@
 </p>
 
 <h3 align="center">
-  <a href="https://arxiv.org/abs/[ARXIV_ID]">📄 Paper</a> &nbsp;•&nbsp;
+  <a href="https://arxiv.org/abs/2611.12306">📄 Paper</a> &nbsp;•&nbsp;
   <a href="https://debadrata.github.io/ExoStack_documentation/">📘 Documentation</a> &nbsp;•&nbsp;
   <a href="docs/ExoStack_User_Manual.pdf">📗 User manual</a> &nbsp;•&nbsp;
   <a href="#validated-on-two-exosuits">🎥 Videos</a>
@@ -74,7 +74,7 @@
   </tr>
 </table>
 
-Both systems run the same ExoStack code; they differ only in their device lists, configuration files and plug-ins. Results are reported in the [paper](https://arxiv.org/abs/[ARXIV_ID]).
+Both systems run the same ExoStack code; they differ only in their device lists, configuration files and plug-ins. Results are reported in the [paper](https://arxiv.org/abs/2611.12306).
 
 ## Overview
 
@@ -292,7 +292,7 @@ ros2 launch exo_stack hil_launch.py                             # HIL: optimizer
 |---|---|
 | 📘 **[Documentation website](https://debadrata.github.io/ExoStack_documentation/)** | the complete guide, online |
 | 🔌 **[ROS 2 interfaces](https://debadrata.github.io/ExoStack_documentation/ros2-interfaces.html)** | every node's subscribed and published topics, and the layout of each message |
-| 📗 **[User manual (PDF)](docs/ExoStack_User_Manual.pdf)** | installation, configuration reference, running and visualizing the stack, adding I²C sensors, actuators and algorithms, troubleshooting, and the known limitations of v1.0 |
+| 📗 **[User manual (PDF)](docs/ExoStack_User_Manual.pdf)** | installation, configuration reference, running and visualizing the stack, adding I²C sensors, actuators and algorithms, and troubleshooting |
 | 📁 **Module READMEs** | [ESA](ESA) · [ExoCore](exo_stack) · [exo_stack_resources](exo_stack_resources) · [PASE](PASE_GUI) |
 
 ## Citation
@@ -300,7 +300,7 @@ ros2 launch exo_stack hil_launch.py                             # HIL: optimizer
 The design and validation of ExoStack are described in:
 
 > **ExoStack: A Modular and Reconfigurable Software Framework for Wearable Robotics Using ROS 2**<br>
-> Debadrata Sarkar et al., *arXiv preprint* [arXiv:[ARXIV_ID]](https://arxiv.org/abs/[ARXIV_ID]), 2026.
+> Debadrata Sarkar et al., *arXiv preprint* [arXiv:2611.12306](https://arxiv.org/abs/2611.12306), 2026.
 
 If ExoStack is useful in your work, please cite:
 
@@ -308,13 +308,15 @@ If ExoStack is useful in your work, please cite:
 @article{exostack2026,
   title   = {ExoStack: A Modular and Reconfigurable Software Framework for Wearable Robotics Using ROS 2},
   author  = {Sarkar, Debadrata and others},
-  journal = {arXiv preprint arXiv:[ARXIV_ID]},
+  journal = {arXiv preprint arXiv:2611.12306},
   year    = {2026},
-  doi     = {10.48550/arXiv.[ARXIV_ID]}
+  doi     = {10.48550/arXiv.2611.12306}
 }
 ```
 
 ## License
+
+Copyright © 2025–2026 CSIR-CMERI, India.
 
 The ExoStack source code (`ESA/`, `exo_stack/`, `exo_stack_resources/`, `PASE_GUI/`) is released under the [PolyForm Noncommercial License 1.0.0](LICENSE): it may be used, modified and shared for research, teaching and other noncommercial purposes; commercial use needs a separate license from the authors (see [Contact](#contact)).
 

@@ -21,8 +21,8 @@ preferred-citation:
   title: "ExoStack: A Modular and Reconfigurable Software Framework for Wearable Robotics Using ROS 2"
   journal: "arXiv preprint"
   year: 2026
-  doi: "10.48550/arXiv.[ARXIV_ID]"
-  url: "https://arxiv.org/abs/[ARXIV_ID]"
+  doi: "10.48550/arXiv.2611.12306"
+  url: "https://arxiv.org/abs/2611.12306"
   authors:
     - family-names: "Sarkar"
       given-names: "Debadrata"

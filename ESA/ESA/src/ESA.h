@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2025 Soft Exosuit Sensor Suite
+ * Copyright (C) 2025-2026 CSIR-CMERI, India
  *
  * Licensed under the PolyForm Noncommercial License 1.0.0.
  * You may not use this file except in compliance with the License.
