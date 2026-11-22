@@ -16,4 +16,4 @@ It does not cover:
 - the source code in `ESA/`, `exo_stack/`, `exo_stack_resources/` and `PASE_GUI/`, licensed under the PolyForm Noncommercial License 1.0.0 (see [`LICENSE`](LICENSE));
 - third-party material listed in [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md), which keeps its own license, including the website fonts (SIL Open Font License 1.1).
 
-Suggested attribution: *ExoStack documentation, D. Sarkar, S. Sen and A. Arora, CSIR-CMERI, licensed under CC BY-NC 4.0.*
+Suggested attribution: *ExoStack documentation, D. Sarkar, U. Ray, S. Sen and A. Arora, CSIR-CMERI, licensed under CC BY-NC 4.0.*

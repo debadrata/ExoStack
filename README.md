@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <b><a href="https://www.linkedin.com/in/debadrata-sarkar">Debadrata Sarkar</a></b>, <b>Soumen Sen</b>, <b><a href="https://www.linkedin.com/in/dr-aman-arora/">Aman Arora</a></b><br>
+  <b><a href="https://www.linkedin.com/in/debadrata-sarkar">Debadrata Sarkar</a></b>, <b>Upamanyu Ray</b>, <b>Soumen Sen</b>, <b><a href="https://www.linkedin.com/in/dr-aman-arora/">Aman Arora</a></b><br>
   Human Centred Robotics and Cybernetics Group, CSIR–Central Mechanical Engineering Research Institute (CSIR-CMERI), Durgapur, India
 </p>
 
